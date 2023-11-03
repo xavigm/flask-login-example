@@ -8,3 +8,8 @@ Flask-Login provides user session management for Flask. It handles the common ta
 If the applications runs for first time, create a sqlite database with admin/admin user.
 
 The HTML5 template used is from Creative Tim.
+
+More info in my blog:
+https://blog.xavigonzalez.net/simple-login-con-flask-y-sqlite/
+
+![simplelogin](https://github.com/xavigm/flask-login-example/assets/11421106/0083139d-097a-4302-8614-b2412efab505)
